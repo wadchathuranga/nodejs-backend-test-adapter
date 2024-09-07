@@ -33,7 +33,7 @@ logs
 docker-compose.yaml
 
 # dotenv environment variables file
-.env
+# .env
 config/env/production.json
-config/env/development.json
+# config/env/development.json
 config/env/test.json
